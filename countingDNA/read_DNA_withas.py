@@ -23,3 +23,4 @@ for i in range(0, len(data)):
 		T += 1
 
 print(A, C, G, T)
+

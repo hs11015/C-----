@@ -45,7 +45,7 @@ def scoring_protein(List, alignment_number):
 		
 	return A/i,C/i,D/i,E/i,F/i,G/i,H/i,I/i,K/i,L/i,M/i,N/i,P/i,Q/i,R/i,S/i,T/i,V/i,W/i,Y/i
 
-
+#main code
 import pandas as pd
 
 data = ''
@@ -112,5 +112,6 @@ else:	#case == 2
 
 #Printing PSSM
 sj = pd.DataFrame(PSSM, index=[i for i in range(1, length+1)], columns=origin_col)
+sj.index.name = 'seq loc'
 print("\n<PSSM Table>")
 print(sj)
