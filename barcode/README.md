@@ -23,5 +23,5 @@ main에서 가계부 등록 버튼(2)을 누르고, 모든 정보를 입력하�
 <br>
 이외에도 가계부 내역 삭제, 수정 기능도 추가하고싶었는데 못해서 조금 아쉬움이 남네요
 <br><br>
-https://user-images.githubusercontent.com/79328858/208993358-38239a13-91d2-45a0-90c9-cf88c0cbcd1e.mp4
 
+barcode/결과화면.mp4
