@@ -23,4 +23,4 @@ main에서 가계부 등록 버튼(2)을 누르고, 모든 정보를 입력하�
 <br>
 이외에도 가계부 내역 삭제, 수정 기능도 추가하고싶었는데 못해서 조금 아쉬움이 남네요
 
-https://github.com/hs11015/primer-bioinformatics/blob/df1457e9b622ac8a57c8931f3ced413e4f967a44/barcode/%EA%B2%B0%EA%B3%BC%ED%99%94%EB%A9%B4.mp4
+<img src='https://github.com/hs11015/primer-bioinformatics/blob/df1457e9b622ac8a57c8931f3ced413e4f967a44/barcode/%EA%B2%B0%EA%B3%BC%ED%99%94%EB%A9%B4.mp4'>
